@@ -9,93 +9,135 @@ Icon classes can be used entirely standalone. They are named after their origina
 <img class="icon-home" />
 ```
 */
-.icon-logo_liga_40 {
+.icon-dic2 {
   background-image: url(../img/spritesheet.png);
-  background-position: -524px -300px;
+  background-position: -539px 0px;
+  width: 369px;
+  height: 410px;
+}
+.icon-dioc {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px -416px;
+  width: 411px;
+  height: 417px;
+}
+.icon-eem {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px -833px;
+  width: 201px;
+  height: 421px;
+}
+.icon-ghc {
+  background-image: url(../img/spritesheet.png);
+  background-position: -908px 0px;
+  width: 346px;
+  height: 413px;
+}
+.icon-hdp {
+  background-image: url(../img/spritesheet.png);
+  background-position: -908px -413px;
+  width: 321px;
+  height: 416px;
+}
+.icon-liga {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px 0px;
+  width: 539px;
+  height: 416px;
+}
+.icon-logo-cidade {
+  background-image: url(../img/spritesheet.png);
+  background-position: -539px -410px;
+  width: 364px;
+  height: 400px;
+}
+.icon-logo-liga {
+  background-image: url(../img/spritesheet.png);
+  background-position: -1095px -933px;
   width: 130px;
   height: 40px;
 }
-.icon-logo_pmpatos {
-  background-image: url(../img/spritesheet.png);
-  background-position: 0px 0px;
-  width: 375px;
-  height: 150px;
-}
 .icon-aec {
   background-image: url(../img/spritesheet.png);
-  background-position: -149px -150px;
+  background-position: -350px -833px;
   width: 149px;
   height: 100px;
 }
 .icon-amb {
   background-image: url(../img/spritesheet.png);
-  background-position: 0px -250px;
+  background-position: -499px -833px;
   width: 149px;
   height: 100px;
 }
 .icon-berg-contabilidade {
   background-image: url(../img/spritesheet.png);
-  background-position: -149px -250px;
+  background-position: -648px -833px;
   width: 149px;
   height: 100px;
 }
 .icon-colorado {
   background-image: url(../img/spritesheet.png);
-  background-position: -375px 0px;
+  background-position: -797px -833px;
   width: 149px;
   height: 100px;
 }
 .icon-fenix {
   background-image: url(../img/spritesheet.png);
-  background-position: -375px -100px;
+  background-position: -946px -833px;
   width: 149px;
   height: 100px;
 }
 .icon-jc-confeccoes {
   background-image: url(../img/spritesheet.png);
-  background-position: 0px -150px;
+  background-position: -1095px -833px;
   width: 149px;
   height: 100px;
 }
 .icon-jm-marques {
   background-image: url(../img/spritesheet.png);
-  background-position: 0px -350px;
+  background-position: -201px -933px;
   width: 149px;
   height: 100px;
 }
 .icon-midia {
   background-image: url(../img/spritesheet.png);
-  background-position: -149px -350px;
+  background-position: -350px -933px;
   width: 149px;
   height: 100px;
 }
 .icon-nordeste-adesivos {
   background-image: url(../img/spritesheet.png);
-  background-position: -298px -350px;
+  background-position: -499px -933px;
   width: 149px;
   height: 100px;
 }
 .icon-papelaria-patoense {
   background-image: url(../img/spritesheet.png);
-  background-position: -524px 0px;
+  background-position: -648px -933px;
   width: 149px;
   height: 100px;
 }
 .icon-protecon {
   background-image: url(../img/spritesheet.png);
-  background-position: -524px -100px;
+  background-position: -797px -933px;
   width: 149px;
   height: 100px;
 }
 .icon-super-forte {
   background-image: url(../img/spritesheet.png);
-  background-position: -524px -200px;
+  background-position: -946px -933px;
   width: 149px;
   height: 100px;
 }
 .icon-tryfit {
   background-image: url(../img/spritesheet.png);
-  background-position: -375px -200px;
+  background-position: -201px -833px;
   width: 149px;
   height: 100px;
+}
+.icon-pm-patos {
+  background-image: url(../img/spritesheet.png);
+  background-position: -201px -1033px;
+  width: 175px;
+  height: 70px;
 }
