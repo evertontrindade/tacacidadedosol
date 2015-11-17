@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro);
+
+body {
+  background: url('img/bg.png') no-repeat;
+}
+nav .container-fluid {
+  background-color: #290068!important;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #290068!important;
+    }
+    .navbar-collapse {
+      background:#382DB5 !important;
+    }
+}
+
+@font-face {
+  font-family:'alegre';
+  src:url('fonts/AlegreSans-Regular.ttf');
+  font-style:normal;
+  font-weight:400;
+}
+
+.navbar {
+  background-color:#290068 !important;
+  border-radius: 0 !important;
+  border-width: 0;
+  height: 50px;
+  margin-bottom: 55px;
+}
+
+#main-navigation {
+  font-family:'alegre';
+  font-size: 1.15em;
+}
+#main-navigation .nav.navbar-nav.navbar-right > li > a {
+  color:#fff;
+}
+#main-navigation .nav.navbar-nav.navbar-right > li.active > a {
+  color:#290068 !important;
+}
+
+#marca {
+  top: 0;
+  position: absolute;
+  height:50px;
+  width: 35%;
+  padding: 0;
+  font-family:'alegre';
+  background-color:#f40007 !important;
+  text-align:center;
+  color:#fff;
+  font-size:3em;
+}
+
+#slogan {
+  position: absolute;
+  width: 35%;
+  background-color:#F78900 !important;
+  text-align:center;
+  letter-spacing:8px;
+  font-family:'alegre';
+  font-size:1.5em;
+}
+
+#content {
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px;
+  text-align:justify;
+  margin-bottom: 35px;
+}
+
+#content h1 {
+  font-family:'alegre';
+  padding-left: 55px;
+  padding-bottom: 25px;
+  text-align:left;
+  color:#f40007 !important;
+}
+
+#content #news {
+  font-family:'alegre';
+}
+
+#content #news h3 {
+  border-bottom: 1px solid #ccc;
+}
+
+footer {
+  background-color:#290068;
+  padding: 10px;
+}
+footer h4 {
+  font-family:'alegre';
+  color:#fff !important;
+}
+
+footer .col-md-10 {
+  border-left: 1px solid #ebebeb;
+}
+
+footer .img-responsive {
+  background-color: #fff;
+}
+
+footer ul.patrocinios li {
+  display: inline-block;
+}

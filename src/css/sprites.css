@@ -1,0 +1,101 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-logo_liga_40 {
+  background-image: url(../img/spritesheet.png);
+  background-position: -524px -300px;
+  width: 130px;
+  height: 40px;
+}
+.icon-logo_pmpatos {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px 0px;
+  width: 375px;
+  height: 150px;
+}
+.icon-aec {
+  background-image: url(../img/spritesheet.png);
+  background-position: -149px -150px;
+  width: 149px;
+  height: 100px;
+}
+.icon-amb {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px -250px;
+  width: 149px;
+  height: 100px;
+}
+.icon-berg-contabilidade {
+  background-image: url(../img/spritesheet.png);
+  background-position: -149px -250px;
+  width: 149px;
+  height: 100px;
+}
+.icon-colorado {
+  background-image: url(../img/spritesheet.png);
+  background-position: -375px 0px;
+  width: 149px;
+  height: 100px;
+}
+.icon-fenix {
+  background-image: url(../img/spritesheet.png);
+  background-position: -375px -100px;
+  width: 149px;
+  height: 100px;
+}
+.icon-jc-confeccoes {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px -150px;
+  width: 149px;
+  height: 100px;
+}
+.icon-jm-marques {
+  background-image: url(../img/spritesheet.png);
+  background-position: 0px -350px;
+  width: 149px;
+  height: 100px;
+}
+.icon-midia {
+  background-image: url(../img/spritesheet.png);
+  background-position: -149px -350px;
+  width: 149px;
+  height: 100px;
+}
+.icon-nordeste-adesivos {
+  background-image: url(../img/spritesheet.png);
+  background-position: -298px -350px;
+  width: 149px;
+  height: 100px;
+}
+.icon-papelaria-patoense {
+  background-image: url(../img/spritesheet.png);
+  background-position: -524px 0px;
+  width: 149px;
+  height: 100px;
+}
+.icon-protecon {
+  background-image: url(../img/spritesheet.png);
+  background-position: -524px -100px;
+  width: 149px;
+  height: 100px;
+}
+.icon-super-forte {
+  background-image: url(../img/spritesheet.png);
+  background-position: -524px -200px;
+  width: 149px;
+  height: 100px;
+}
+.icon-tryfit {
+  background-image: url(../img/spritesheet.png);
+  background-position: -375px -200px;
+  width: 149px;
+  height: 100px;
+}

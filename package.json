@@ -1,0 +1,34 @@
+{
+  "name": "tacacidadedosol",
+  "version": "1.0.0",
+  "description": "Repositorio criado para elaboração do layout do site handebol sertanejo, na celebração da Taça Cidade do Sol de Handebol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertontrindade/tacacidadedosol.git"
+  },
+  "author": "Everton Trindade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evertontrindade/tacacidadedosol/issues"
+  },
+  "homepage": "https://github.com/evertontrindade/tacacidadedosol#readme",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.1.3",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-image-resize": "^1.0.0",
+    "grunt-spritesmith": "^5.2.0",
+    "grunt-wordpress": "^2.1.0"
+  }
+}
