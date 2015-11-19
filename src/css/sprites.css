@@ -11,133 +11,133 @@ Icon classes can be used entirely standalone. They are named after their origina
 */
 .icon-dic2 {
   background-image: url(../img/spritesheet.png);
-  background-position: -539px 0px;
-  width: 369px;
-  height: 410px;
+  background-position: 0px -400px;
+  width: 176px;
+  height: 195px;
 }
 .icon-dioc {
   background-image: url(../img/spritesheet.png);
-  background-position: 0px -416px;
-  width: 411px;
-  height: 417px;
+  background-position: -364px -195px;
+  width: 192px;
+  height: 195px;
 }
 .icon-eem {
   background-image: url(../img/spritesheet.png);
-  background-position: 0px -833px;
-  width: 201px;
-  height: 421px;
+  background-position: -489px -400px;
+  width: 93px;
+  height: 195px;
 }
 .icon-ghc {
   background-image: url(../img/spritesheet.png);
-  background-position: -908px 0px;
-  width: 346px;
-  height: 413px;
+  background-position: -176px -400px;
+  width: 163px;
+  height: 195px;
 }
 .icon-hdp {
   background-image: url(../img/spritesheet.png);
-  background-position: -908px -413px;
-  width: 321px;
-  height: 416px;
+  background-position: -339px -400px;
+  width: 150px;
+  height: 195px;
 }
 .icon-liga {
   background-image: url(../img/spritesheet.png);
-  background-position: 0px 0px;
-  width: 539px;
-  height: 416px;
+  background-position: -364px 0px;
+  width: 253px;
+  height: 195px;
 }
 .icon-logo-cidade {
   background-image: url(../img/spritesheet.png);
-  background-position: -539px -410px;
+  background-position: 0px 0px;
   width: 364px;
   height: 400px;
 }
 .icon-logo-liga {
   background-image: url(../img/spritesheet.png);
-  background-position: -1095px -933px;
+  background-position: -766px -300px;
   width: 130px;
   height: 40px;
 }
 .icon-aec {
   background-image: url(../img/spritesheet.png);
-  background-position: -350px -833px;
+  background-position: -617px -100px;
   width: 149px;
   height: 100px;
 }
 .icon-amb {
   background-image: url(../img/spritesheet.png);
-  background-position: -499px -833px;
+  background-position: -617px -200px;
   width: 149px;
   height: 100px;
 }
 .icon-berg-contabilidade {
   background-image: url(../img/spritesheet.png);
-  background-position: -648px -833px;
+  background-position: -617px -300px;
   width: 149px;
   height: 100px;
 }
 .icon-colorado {
   background-image: url(../img/spritesheet.png);
-  background-position: -797px -833px;
+  background-position: -617px -400px;
   width: 149px;
   height: 100px;
 }
 .icon-fenix {
   background-image: url(../img/spritesheet.png);
-  background-position: -946px -833px;
+  background-position: 0px -595px;
   width: 149px;
   height: 100px;
 }
 .icon-jc-confeccoes {
   background-image: url(../img/spritesheet.png);
-  background-position: -1095px -833px;
+  background-position: -149px -595px;
   width: 149px;
   height: 100px;
 }
 .icon-jm-marques {
   background-image: url(../img/spritesheet.png);
-  background-position: -201px -933px;
+  background-position: -298px -595px;
   width: 149px;
   height: 100px;
 }
 .icon-midia {
   background-image: url(../img/spritesheet.png);
-  background-position: -350px -933px;
+  background-position: -447px -595px;
   width: 149px;
   height: 100px;
 }
 .icon-nordeste-adesivos {
   background-image: url(../img/spritesheet.png);
-  background-position: -499px -933px;
+  background-position: -596px -595px;
   width: 149px;
   height: 100px;
 }
 .icon-papelaria-patoense {
   background-image: url(../img/spritesheet.png);
-  background-position: -648px -933px;
+  background-position: -766px 0px;
   width: 149px;
   height: 100px;
 }
 .icon-protecon {
   background-image: url(../img/spritesheet.png);
-  background-position: -797px -933px;
+  background-position: -766px -100px;
   width: 149px;
   height: 100px;
 }
 .icon-super-forte {
   background-image: url(../img/spritesheet.png);
-  background-position: -946px -933px;
+  background-position: -766px -200px;
   width: 149px;
   height: 100px;
 }
 .icon-tryfit {
   background-image: url(../img/spritesheet.png);
-  background-position: -201px -833px;
+  background-position: -617px 0px;
   width: 149px;
   height: 100px;
 }
 .icon-pm-patos {
   background-image: url(../img/spritesheet.png);
-  background-position: -201px -1033px;
+  background-position: 0px -695px;
   width: 175px;
   height: 70px;
 }
